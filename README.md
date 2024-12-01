@@ -94,23 +94,8 @@ project/
    }
    ```
 
-### 2. **Verify OTP**
-- **Route**: `POST /api/v1/auth/verify-otp`
-- **Body**:
-   ```json
-   {
-     "otp": "123456"
-   }
-   ```
-- **Response**:
-   ```json
-   {
-     "success": true,
-     "message": "OTP verified successfully."
-   }
-   ```
 
-### 3. **User Registration**
+### 2. **User Registration**
 - **Route**: `POST /api/v1/auth/signup`
 - **Body**:
    ```json
@@ -133,7 +118,7 @@ project/
    }
    ```
 
-### 4. **User Login**
+### 3. **User Login**
 - **Route**: `POST /api/v1/auth/login`
 - **Body**:
    ```json
