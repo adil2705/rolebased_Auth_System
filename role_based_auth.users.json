@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "674c515f60ec3f14dede4aca"
+  },
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "21co12@aiktc.ac.in",
+  "password": "$2b$10$2OYiWExndabGoWA7/rkH6eaZKbHtLDGphcOxgpFWm8BeZM1oxS1hG",
+  "contactNumber": 1234567890,
+  "accountType": "Student",
+  "createdAt": {
+    "$date": "2024-12-01T12:06:55.136Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-01T12:06:55.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674c534bea11ca627e2b3d73"
+  },
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "ahmad.atif7860@gmail.com",
+  "password": "$2b$10$2wnfIJSg0MmWunjNLI/kMevuw8NkOqnMvmC0FYNIGwR4DFlyNFIb.",
+  "contactNumber": 1234567890,
+  "accountType": "Admin",
+  "createdAt": {
+    "$date": "2024-12-01T12:15:07.327Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-01T12:15:07.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674c5596ea11ca627e2b3d7c"
+  },
+  "firstName": "Adil",
+  "lastName": "Doe",
+  "email": "adilahmaddev@gmail.com",
+  "password": "$2b$10$1ZwGF5nuYRYe5upuJ2BZvODX4UKT/DSos8Hy8FO3VQ6z08/YVJn96",
+  "contactNumber": 1234567890,
+  "accountType": "Instructor",
+  "createdAt": {
+    "$date": "2024-12-01T12:24:54.927Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-01T12:24:54.927Z"
+  },
+  "__v": 0
+}]
