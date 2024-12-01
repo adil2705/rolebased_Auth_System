@@ -149,8 +149,6 @@ project/
 - **middlewares/auth.js**: Protects routes by checking for a valid JWT token before granting access.
 - **utils/mailSender.js**: Contains functions to send OTP emails using a service like Nodemailer.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
