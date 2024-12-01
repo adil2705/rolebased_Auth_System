@@ -93,6 +93,7 @@ project/
      "message": "OTP sent to your email."
    }
    ```
+   ![Sendotp Workflow](sendotp.jpg)
 
 
 ### 2. **User Registration**
@@ -118,6 +119,8 @@ project/
    }
    ```
 
+    ![Registration Workflow](signup.jpg)
+
 ### 3. **User Login**
 - **Route**: `POST /api/v1/auth/login`
 - **Body**:
@@ -134,6 +137,7 @@ project/
      "token": "jwt_token_here"
    }
    ```
+  ![login](login.jpg)
 
 ## Folder Details
 
